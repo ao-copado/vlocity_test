@@ -3,7 +3,7 @@
     "%vlocity_namespace%__AdditionalFilter__c": "",
     "%vlocity_namespace%__ApplicableTypes__c": "Contract",
     "%vlocity_namespace%__ApplicableUserProfiles__c": "All",
-    "%vlocity_namespace%__DisplayLabel__c": "New fancy label",
+    "%vlocity_namespace%__DisplayLabel__c": "Some other awesome label",
     "%vlocity_namespace%__DisplayOn__c": "All",
     "%vlocity_namespace%__DisplaySequence__c": 8,
     "%vlocity_namespace%__Filter__c": "Status = 'Signed'",
@@ -11,7 +11,7 @@
     "%vlocity_namespace%__InvokeMethodName__c": "updateObjectState",
     "%vlocity_namespace%__IsSeedAction__c": false,
     "%vlocity_namespace%__LinkType__c": "Other",
-    "%vlocity_namespace%__OpenURLMode__c": "Current Window",
+    "%vlocity_namespace%__OpenURLMode__c": "New Tab / Window",
     "%vlocity_namespace%__StateId__c": {
         "%vlocity_namespace%__DTPStateModelName__c": "Contract State Model",
         "Name": "Activated",
@@ -25,7 +25,7 @@
         "%vlocity_namespace%__TypeFieldName__c": null,
         "%vlocity_namespace%__TypeFieldValue__c": null,
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__VlocityStateModel__c/Contract State Model",
+        "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:a2A1I000000YfBFUA0",
         "VlocityRecordSObjectType": "%vlocity_namespace%__VlocityStateModel__c"
     },
     "%vlocity_namespace%__URL__c": "/{0}",
