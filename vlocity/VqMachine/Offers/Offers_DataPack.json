@@ -1,6 +1,6 @@
 {
     "%vlocity_namespace%__AcceptDecayMinutes__c": "",
-    "%vlocity_namespace%__Config__c": "{\"Id\":\"a3G36000000R7bqEAC\",\"Name\":\"Offers\",\"scoringInterfaces\":[{\"categoryLabels\":{\"VLO-PER-0001\":\"Personal Interests\",\"VLO-PER-0002\":\"Product Interests\",\"VLO-PER-0003\":\"Noted Concerns\",\"VLO-PER-0004\":\"Analysis\",\"VLO-PER-0005\":\"Purchasing Criteria\",\"VLO-PER-0006\":\"Family Information\",\"VLO-PER-0007\":\"Profile\"},\"categoryWeights\":{\"VLO-PER-0001\":\"4\",\"VLO-PER-0002\":\"8\",\"VLO-PER-0003\":\"3\",\"VLO-PER-0004\":\"1\",\"VLO-PER-0005\":\"2\",\"VLO-PER-0006\":\"2\",\"VLO-PER-0007\":\"2\"},\"name\":\"VqScoringImplProfileMatch\",\"weight\":1}]}",
+    "%vlocity_namespace%__Config__c": "{\"Id\":\"a3G1I000000by5zUAA\",\"Name\":\"Offers\",\"scoringInterfaces\":[{\"acceptDecayWeight\":1,\"acceptsWeight\":1,\"categoryLabels\":{\"VLO-PER-0001\":\"Personal Interests\",\"VLO-PER-0002\":\"Product Interests\",\"VLO-PER-0003\":\"Noted Concerns\",\"VLO-PER-0004\":\"Analysis\",\"VLO-PER-0005\":\"Purchasing Criteria\",\"VLO-PER-0007\":\"Profile\"},\"categoryWeights\":{\"VLO-PER-0001\":\"10\",\"VLO-PER-0002\":\"10\",\"VLO-PER-0003\":3,\"VLO-PER-0004\":1,\"VLO-PER-0005\":2,\"VLO-PER-0006\":2,\"VLO-PER-0007\":2},\"name\":\"VqScoringImplProfileMatch\",\"rejectDecayWeight\":1,\"rejectsWeight\":1,\"viewDecayWeight\":1,\"viewsWeight\":1,\"weight\":1}]}",
     "%vlocity_namespace%__RejectDecayMinutes__c": "",
     "%vlocity_namespace%__RestResourceName__c": "localoptions",
     "%vlocity_namespace%__ViewDecayMinutes__c": "",
