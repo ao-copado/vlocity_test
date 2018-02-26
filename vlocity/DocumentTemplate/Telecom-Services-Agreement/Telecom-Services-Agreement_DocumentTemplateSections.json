@@ -352,7 +352,7 @@
                 "%vlocity_namespace%__EntityFilterId__c": {
                     "%vlocity_namespace%__GlobalKey__c": null,
                     "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-                    "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:a0w1I000000Eh9xQAC",
+                    "VlocityLookupRecordSourceKey": "%vlocity_namespace%__EntityFilter__c/Contract Account Is In US",
                     "VlocityRecordSObjectType": "%vlocity_namespace%__EntityFilter__c"
                 },
                 "%vlocity_namespace%__Product2Id__c": "",

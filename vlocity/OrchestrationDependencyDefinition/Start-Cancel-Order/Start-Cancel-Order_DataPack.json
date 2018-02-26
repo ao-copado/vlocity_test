@@ -3,7 +3,7 @@
         "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "Cancel E2E",
         "Name": "Start Cancel Order",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Start Cancel Order/OrchestrationPlanDefinition/Cancel E2E",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Start Cancel Order/%vlocity_namespace%__OrchestrationPlanDefinition__c/Cancel E2E",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__DependencyPlanDefinitionId__c": {
@@ -18,7 +18,7 @@
         "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "Cancel TV",
         "Name": "Cancel TV",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Cancel TV/OrchestrationPlanDefinition/Cancel TV",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Cancel TV/%vlocity_namespace%__OrchestrationPlanDefinition__c/Cancel TV",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__Scope__c": "",

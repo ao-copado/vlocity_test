@@ -6,12 +6,13 @@
     <div id="story-time" ng-show="showInfo">
       <div class="story-type">
             <label>Type:</label>
-            <select ng-model="importedScope.selectedStoryType"
-                    ng-options="storyType for storyType in importedScope.uniqueStoryTypeList | orderBy:storyType">
+            <select ng-model="importedScope.selectedStory"
+                    ng-options="story.objType for story in importedScope.uniqueStoryList | orderBy:story.objType"
+                    ng-change="importedScope.change()">
                 <option value="">All</option>
             </select>
       </div>
-      <div class="story" ng-repeat="story in importedScope.stories | filter:importedScope.selectStoryType track by $index" ng-click="importedScope.onNavigate(story.Id, story.objType)">
+      <div class="story" ng-repeat="story in importedScope.stories" ng-click="importedScope.onNavigate(story.Id, story.objType, story.navigateLink)">
         <div class="icon-segment">
           <img src="{{story.imageRef}}">
           <div class="line"></div>

@@ -3,7 +3,7 @@
         "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "Broadband Internet CFS",
         "Name": "Design Solution",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Design Solution/OrchestrationPlanDefinition/Broadband Internet CFS",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Design Solution/%vlocity_namespace%__OrchestrationPlanDefinition__c/Broadband Internet CFS",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__DependencyPlanDefinitionId__c": {
@@ -18,7 +18,7 @@
         "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "Broadband Internet CFS",
         "Name": "Activate Core",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Activate Core/OrchestrationPlanDefinition/Broadband Internet CFS",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Activate Core/%vlocity_namespace%__OrchestrationPlanDefinition__c/Broadband Internet CFS",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__Scope__c": "",
