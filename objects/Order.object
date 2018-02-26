@@ -1075,8 +1075,8 @@
         <lookupDialogsAdditionalFields>CONTRACT.OWNERALIAS</lookupDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>ORDERS.ORDER_NUMBER</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>CONTRACT.OWNERALIAS</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>00N1I00000BUPkd</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>00N1I00000BUPkp</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>vlocity_cmt__Fax__c</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>vlocity_cmt__Phone__c</lookupPhoneDialogsAdditionalFields>
         <searchResultsAdditionalFields>ORDERS.ORDER_NUMBER</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>SALES.ACCOUNT.NAME</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>ORDERS.TOTAL_AMOUNT</searchResultsAdditionalFields>

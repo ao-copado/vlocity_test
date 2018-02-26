@@ -184,6 +184,10 @@
         <trackTrending>false</trackTrending>
     </fields>
     <fields>
+        <fullName>IqScore</fullName>
+        <trackTrending>false</trackTrending>
+    </fields>
+    <fields>
         <fullName>IsPrivate</fullName>
         <trackTrending>false</trackTrending>
     </fields>
@@ -781,8 +785,8 @@
         <lookupPhoneDialogsAdditionalFields>OPPORTUNITY.NAME</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>ACCOUNT.NAME</lookupPhoneDialogsAdditionalFields>
         <lookupPhoneDialogsAdditionalFields>ACCOUNT.SITE</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>00N1I00000BUPjY</lookupPhoneDialogsAdditionalFields>
-        <lookupPhoneDialogsAdditionalFields>00N1I00000BUPji</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>vlocity_cmt__Fax__c</lookupPhoneDialogsAdditionalFields>
+        <lookupPhoneDialogsAdditionalFields>vlocity_cmt__Phone__c</lookupPhoneDialogsAdditionalFields>
         <searchResultsAdditionalFields>OPPORTUNITY.NAME</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>ACCOUNT.NAME</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>ACCOUNT.SITE</searchResultsAdditionalFields>

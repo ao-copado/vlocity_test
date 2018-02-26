@@ -1756,6 +1756,7 @@
         <searchResultsAdditionalFields>PRODUCT2.DESCRIPTION</searchResultsAdditionalFields>
         <searchResultsAdditionalFields>PRODUCT2.FAMILY</searchResultsAdditionalFields>
     </searchLayouts>
+    <sharingModel>ReadWrite</sharingModel>
     <webLinks>
         <fullName>vlocity_cmt__Clone_Product</fullName>
         <availability>online</availability>
