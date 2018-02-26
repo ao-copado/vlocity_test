@@ -3,7 +3,7 @@
         "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "E2E",
         "Name": "Credit Check",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Credit Check/%vlocity_namespace%__OrchestrationPlanDefinition__c/E2E",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Credit Check/OrchestrationPlanDefinition/E2E",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__DependencyPlanDefinitionId__c": {

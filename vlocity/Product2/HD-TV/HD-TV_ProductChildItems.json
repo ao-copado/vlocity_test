@@ -15,16 +15,16 @@
         "%vlocity_namespace%__ParentProductId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityMatchingKeyObject",
-            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017L60QAE",
+            "VlocityMatchingRecordSourceKey": "VlocityRecordSourceKey:01t1I0000017L5hQAE",
             "VlocityRecordSObjectType": "Product2"
         },
         "%vlocity_namespace%__Quantity__c": 1,
         "%vlocity_namespace%__RelationshipType__c": "Child",
         "%vlocity_namespace%__SelectionMethodImplementation__c": "",
         "%vlocity_namespace%__SeqNumber__c": 1,
-        "Name": "Root HD+ TV",
+        "Name": "Root HD TV",
         "VlocityDataPackType": "SObject",
         "VlocityRecordSObjectType": "%vlocity_namespace%__ProductChildItem__c",
-        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I000000Px32QAC"
+        "VlocityRecordSourceKey": "VlocityRecordSourceKey:a1b1I000000Px2pQAC"
     }
 ]

@@ -3,7 +3,7 @@
         "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "Cancel Landline",
         "Name": "Cancel Landline",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Cancel Landline/%vlocity_namespace%__OrchestrationPlanDefinition__c/Cancel Landline",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Cancel Landline/OrchestrationPlanDefinition/Cancel Landline",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__DependencyPlanDefinitionId__c": {
@@ -18,7 +18,7 @@
         "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "Cancel Broadband",
         "Name": "Cancel Broadband",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Cancel Broadband/%vlocity_namespace%__OrchestrationPlanDefinition__c/Cancel Broadband",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Cancel Broadband/OrchestrationPlanDefinition/Cancel Broadband",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__Scope__c": "",

@@ -9,7 +9,7 @@
     "%vlocity_namespace%__HeaderId__c": {
         "%vlocity_namespace%__GlobalKey__c": null,
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__EntityFilter__c/Order Channel Is Online",
+        "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:a0w1I000000Eh9wQAC",
         "VlocityRecordSObjectType": "%vlocity_namespace%__EntityFilter__c"
     },
     "%vlocity_namespace%__IsActive__c": true,

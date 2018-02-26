@@ -41,7 +41,7 @@
         "%vlocity_namespace%__SystemId__r.Name": "Thor",
         "Name": "Thor Interface",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__SystemInterface__c/Thor Interface/%vlocity_namespace%__System__c/Thor",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__SystemInterface__c/Thor Interface/System/Thor",
         "VlocityRecordSObjectType": "%vlocity_namespace%__SystemInterface__c"
     },
     "%vlocity_namespace%__TimeoutMs__c": 30000,

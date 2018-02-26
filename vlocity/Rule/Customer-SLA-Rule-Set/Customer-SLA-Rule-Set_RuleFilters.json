@@ -4,7 +4,7 @@
         "%vlocity_namespace%__EntityFilterId__c": {
             "%vlocity_namespace%__GlobalKey__c": null,
             "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-            "VlocityLookupRecordSourceKey": "%vlocity_namespace%__EntityFilter__c/Account SLA Is Gold",
+            "VlocityLookupRecordSourceKey": "VlocityRecordSourceKey:a0w1I000000Eh9uQAC",
             "VlocityRecordSObjectType": "%vlocity_namespace%__EntityFilter__c"
         },
         "%vlocity_namespace%__RuleId__c": {

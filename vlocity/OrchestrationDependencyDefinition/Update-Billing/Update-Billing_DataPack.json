@@ -3,7 +3,7 @@
         "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "Billing",
         "Name": "Update Billing",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Update Billing/%vlocity_namespace%__OrchestrationPlanDefinition__c/Billing",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Update Billing/OrchestrationPlanDefinition/Billing",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__DependencyPlanDefinitionId__c": {
@@ -15,15 +15,15 @@
     "%vlocity_namespace%__DependencyType__c": "Should Be Processed Before",
     "%vlocity_namespace%__GlobalKey__c": "",
     "%vlocity_namespace%__OrchestrationItemDefinitionId__c": {
-        "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "Cancel Landline",
-        "Name": "Cancel Landline",
+        "%vlocity_namespace%__OrchestrationPlanDefinitionId__r.Name": "Cancel TV",
+        "Name": "Cancel TV",
         "VlocityDataPackType": "VlocityLookupMatchingKeyObject",
-        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Cancel Landline/%vlocity_namespace%__OrchestrationPlanDefinition__c/Cancel Landline",
+        "VlocityLookupRecordSourceKey": "%vlocity_namespace%__OrchestrationItemDefinition__c/Cancel TV/OrchestrationPlanDefinition/Cancel TV",
         "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationItemDefinition__c"
     },
     "%vlocity_namespace%__Scope__c": "",
     "Name": "Update Billing",
     "VlocityDataPackType": "SObject",
     "VlocityRecordSObjectType": "%vlocity_namespace%__OrchestrationDependencyDefinition__c",
-    "VlocityRecordSourceKey": "VlocityRecordSourceKey:a2Y1I0000004WOmUAM"
+    "VlocityRecordSourceKey": "VlocityRecordSourceKey:a2Y1I0000004WOsUAM"
 }
