@@ -23,7 +23,7 @@
     <requireHttps>true</requireHttps>
     <requireInsecurePortalAccess>false</requireInsecurePortalAccess>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
-    <siteAdmin>copadocopado@vdo.cmt.1509071981542</siteAdmin>
+    <siteAdmin>copadocopado@vdo.cmt.1509047592576</siteAdmin>
     <siteType>ChatterNetwork</siteType>
-    <subdomain>vdo-cmt-15ea55c448e-15f5bb325e5</subdomain>
+    <subdomain>vdo-cmt-15ea55c448e-15f5a3ef9ea</subdomain>
 </CustomSite>

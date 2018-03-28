@@ -7,9 +7,9 @@
         <feedItemType>EmailMessageEvent</feedItemType>
     </caseFeedItemSettings>
     <closeCaseThroughStatusChange>false</closeCaseThroughStatusChange>
-    <defaultCaseOwner>copadocopado@vdo.cmt.1509071981542</defaultCaseOwner>
+    <defaultCaseOwner>copadocopado@vdo.cmt.1509047592576</defaultCaseOwner>
     <defaultCaseOwnerType>User</defaultCaseOwnerType>
-    <defaultCaseUser>copadocopado@vdo.cmt.1509071981542</defaultCaseUser>
+    <defaultCaseUser>copadocopado@vdo.cmt.1509047592576</defaultCaseUser>
     <emailToCase>
         <enableEmailToCase>false</enableEmailToCase>
     </emailToCase>
@@ -25,7 +25,7 @@
     <notifyOwnerOnCaseComment>false</notifyOwnerOnCaseComment>
     <notifyOwnerOnCaseOwnerChange>false</notifyOwnerOnCaseOwnerChange>
     <showEmailAttachmentsInCaseAttachmentsRL>true</showEmailAttachmentsInCaseAttachmentsRL>
-    <systemUserEmail>automatedcase@00d1i000002jlsyuag</systemUserEmail>
+    <systemUserEmail>automatedcase@00d1i000002jgnaua4</systemUserEmail>
     <useSystemEmailAddress>true</useSystemEmailAddress>
     <useSystemUserAsDefaultCaseUser>false</useSystemUserAsDefaultCaseUser>
     <webToCase>

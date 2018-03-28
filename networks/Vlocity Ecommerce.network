@@ -51,7 +51,7 @@
     <tabs>
         <customTab>Business</customTab>
         <customTab>Consumer</customTab>
-        <defaultTab>01r1I000000xABO</defaultTab>
+        <defaultTab>01r1I000000x48j</defaultTab>
     </tabs>
     <welcomeTemplate>unfiled$public/CommunityWelcomeEmailTemplate</welcomeTemplate>
 </Network>

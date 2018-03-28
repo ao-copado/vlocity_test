@@ -839,6 +839,11 @@
     <label>Vlocity OmniScript</label>
     <listViews>
         <fullName>vlocity_cmt__All</fullName>
+        <columns>NAME</columns>
+        <columns>OBJECT_ID</columns>
+        <columns>vlocity_cmt__IsActive__c</columns>
+        <columns>vlocity_cmt__Version__c</columns>
+        <columns>vlocity_cmt__DataRaptorBundleId__c</columns>
         <filterScope>Everything</filterScope>
         <label>All</label>
     </listViews>

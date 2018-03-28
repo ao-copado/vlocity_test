@@ -113,7 +113,7 @@
                 sforce.console.getEnclosingPrimaryTabObjectId(load);
             } else {
                 console.info('outside console');
-                var result = { id:'0011I000007SpYi' };
+                var result = { id:'0011I000006gbP7' };
                 load(result);
             }
         };
