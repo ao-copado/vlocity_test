@@ -5,13 +5,13 @@ private class TestAccountTrigger {
     
         //AccountTriggerHelper ach = new AccountTriggerHelper();
         
-        Account acc = new Account();
-        acc.Name = 'Test';
+        Account Acc = new Account();
+        Acc.Name = 'Test';
         
         Test.startTest();
-        insert acc;
+        insert Acc;
         
-        acc = [SELECT Description FROM Account WHERE Id = :acc.Id LIMIT 1];
+        Acc = [SELECT Description FROM Account WHERE Id = :Acc.Id LIMIT 1];
         
         Test.stopTest();
     }

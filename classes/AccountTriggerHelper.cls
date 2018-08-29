@@ -4,6 +4,7 @@ public class AccountTriggerHelper {
         
         for (Account acc: Lacc) {
             acc.Description = acc.Name + ' Description automated';
+            update acc;
         }
     }
 }
